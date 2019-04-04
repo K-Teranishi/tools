@@ -1,0 +1,8 @@
+[package]
+name = "calculate_rank_width"
+version = "0.1.0"
+authors = ["k-teranishi"]
+
+[dependencies]
+rayon = "1.0"
+time = "*"
